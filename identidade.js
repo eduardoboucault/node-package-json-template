@@ -6,3 +6,4 @@ if(!nome && !idade){
 }else{
     console.log(`Olá, ${nome}! Você tem ${idade} anos. \nEm sete anos você terá ${Number(idade)+7}.`)
 }
+
